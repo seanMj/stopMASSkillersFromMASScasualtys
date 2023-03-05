@@ -1,5 +1,5 @@
 # stopMASSkillersFromMASScasualtys
-Basically ideas to stop [severely reduce] mass shooters casualties rate. 
+Basically ideas to stop [severely reduce] mass shooters casualtie rate. 
 
        [Hallways] ok, I tried Hallways your up next.
 
