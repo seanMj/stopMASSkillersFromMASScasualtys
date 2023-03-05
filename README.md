@@ -16,3 +16,6 @@ Each time the shooter would have to readjust their stance/aim/firing pattern/etc
 Giving people more time to escape without being injured. Might be a bit dumb but
 I wanted to start somewhere after many hours on this problem sectioning it over
 And over. 
+
+
+       [In the most recent screen shot i put turky not turkey]
