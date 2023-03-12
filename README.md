@@ -18,15 +18,16 @@ As a shooter progresses through each kill box (i know grim, but saving lives is 
 Giving people more time to escape without being injured. Might be a bit dumb but
 
 I wanted to start somewhere after many hours on this problem sectioning it over from every perspective 😓🤮🤧
-And it seemed that At any given time and any given position, there will always be safety spots from bullets
-Within any given snaked hallway, instead of a straight on static rectangular kill box, which now i look at a bit different.
-as this shouldn't even be a problem to begin with...
+And while walking through the hallways of many types, seemed that At any given time and any given position,
+there will always be safety spots from bullets Within any given snaked hallway, instead of a straight on static
+rectangular kill box, which now I look at a bit different. as this shouldn't even be a problem to begin with...
 I'm just thinking its possible to stop/reduce/prevent this issue and as like... people?
 
        [In the most recent screen shot i put turky not turkey]
 
 Also adding lights along a hallway that direct away from gunshots so its not mass confusion, with a side of mass murderer. 
 
-
-
 This seems stupid I know, but its a good start towards something better. 
+
+
+By. Prisoner 619
