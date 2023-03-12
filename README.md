@@ -25,4 +25,5 @@ And over.
 
 DONT READ THIS, I've been working on this for 2wks now and got this far only. Just frustrated. 
 Nvm its too dark...
+But adding this to supermarkets as a testing ground would be a first step.
 I mean if anyone wants to brainstorm this, no one is going to be stopping you from solving mass murderers
