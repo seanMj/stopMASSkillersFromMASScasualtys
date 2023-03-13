@@ -26,7 +26,13 @@ I'm just thinking its possible to stop/reduce/prevent this issue and as like... 
 
 Also adding lights along a hallway that direct away from gunshots so its not mass confusion, with a side of mass murderer. 
 Or adding the snaking just at the front and the back of the hallways. 
-This seems stupid if your ok with the deaths I know, but its a good start towards something better. 
+This seems stupid... why not gigantic magnetic strips or whatever, i know.. 
+but its a good start towards something better (and this is mainly for me to solve not for really any other reason) 
+
+
+Like, not the whole hallway but at the front and the back,
+ so someone can't just immediately know how how many people are in a given area..
+I know there is a better way, one with ease. But I only got this right now. 
 
 Its can reduce the deaths but... I don't know the math in this area so... idk where to begin. 
 BTW, I cant express myself that well, so this is eh and will take a while, until I can find the best wording... omg i could use MS Word. 
