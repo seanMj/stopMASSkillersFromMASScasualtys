@@ -3,6 +3,7 @@ Basically ideas to stop [severely reduce] mass shooters casualtie rate.
 
        [Hallways] ok, I tried Hallways your up next.
        Its can reduce the deaths but... I don't know the math in this area so... idk where to begin. 
+       BTW, I cant express myself that well, so this is eh, until I can find the best wording. 
 Basically the first idea is to redesign the hallways to allowing running
 from the danger site while keeping the person(s) out of a static killbox as often as possible.
 High casualties can be reduced in theory simply by implementing a strategy like this. 
