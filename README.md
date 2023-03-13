@@ -5,7 +5,8 @@ like anything other then repeating someone else's idea(s).. i bet 99.999% of you
 Basically ideas to stop [severely reduce] mass shooters casualtie rate. 
 
        [Hallways] ok, I tried Hallways your up next.
-                  [Try reading as if your really happy like I was when I thought of it]
+                  [Try reading as if your really happy, like your absolutely happy with life at that moment. 
+                  Like I was when I thought of this. It will make it less grim]
 #
 Using snaking hallways, you can in theory keep dynamic
 and moving killbox(s) which will make it harder on the mass murderer(s) to... well do murderer things, while also keeping dynamic, 
