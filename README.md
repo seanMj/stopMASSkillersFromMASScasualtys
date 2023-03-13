@@ -1,5 +1,5 @@
 # stopMASSkillersFromMASScasualtys
-Honestly, no one should read until I can really form the thoughts for this idea. My Thought is in images and I have to interpret :( 
+Honestly, no one should read until I can really form the thoughts for this idea. My thoughts and ideas are in images,  and I have to interpret :( 
 Basically ideas to stop [severely reduce] mass shooters casualtie rate. 
 
        [Hallways] ok, I tried Hallways your up next.
