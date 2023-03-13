@@ -1,6 +1,7 @@
 # stopMASSkillersFromMASScasualtys
 #i dare one single person to come up with anything... 
-like anything other then repeating someone else.. i bet 99.999% of you wont even try... social loafing in action..
+like anything other then repeating someone else's idea(s).. i bet 99.999% of you wont even try.. social loafing in action..
+
 Basically ideas to stop [severely reduce] mass shooters casualtie rate. 
 
        [Hallways] ok, I tried Hallways your up next.
