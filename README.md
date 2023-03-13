@@ -1,13 +1,11 @@
 # stopMASSkillersFromMASScasualtys
-#i dare one single person to come up with anything... 
-like anything other then repeating someone else's idea(s).. i bet 99.999% of you wont even try.. social loafing in action..
 
 Basically ideas to stop [severely reduce] mass shooters casualtie rate. 
 
        [Hallways] ok, I tried Hallways your up next.
                   [Try reading as if your really happy, like your absolutely happy with life at that moment. 
                   Like I was when I thought of this. It will make it less grim]
-#
+#(i suck at writing painful things so I tried to write it... like nonchalantly)
 Using snaking hallways, you can in theory keep dynamic
 and moving killbox(s) which will make it harder on the mass murderer(s) to... well do murderer things, while also keeping dynamic, 
 and moving save zones for victims. Just By using Some principles of fluid dynamics (idk where I seen it, but it was in my head 
