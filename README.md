@@ -6,9 +6,8 @@ Basically ideas to stop [severely reduce] mass shooters casualtie rate.
 
        [Hallways] ok, I tried Hallways your up next.
    
-Its can reduce the deaths but... I don't know the math in this area so... idk where to begin. 
-BTW, I cant express myself that well, so this is eh and will take a while, until I can find the best wording... omg i could use MS Word. 
-In another way to say it: by using snaking hallways, you can in theory keep dynamic
+#
+Using snaking hallways, you can in theory keep dynamic
 and moving killbox(s), while also keeping dynamic, and moving save zones for victims. Just By using
 Some principles of fluid dynamics (idk where I seen it, but it was in my head just enough to make the connection)
 and a bit of geometry, we could reduce a large volume of  Potential casualties from happening just by dealing with 
@@ -28,7 +27,10 @@ I'm just thinking its possible to stop/reduce/prevent this issue and as like... 
 
 Also adding lights along a hallway that direct away from gunshots so its not mass confusion, with a side of mass murderer. 
 
-This seems stupid I know, but its a good start towards something better. 
+This seems stupid if your ok with the deaths I know, but its a good start towards something better. 
+
+Its can reduce the deaths but... I don't know the math in this area so... idk where to begin. 
+BTW, I cant express myself that well, so this is eh and will take a while, until I can find the best wording... omg i could use MS Word. 
 
 
 By. Prisoner 819
