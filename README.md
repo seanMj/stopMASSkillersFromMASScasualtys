@@ -25,7 +25,7 @@ I'm just thinking its possible to stop/reduce/prevent this issue and as like... 
        [In the most recent screen shot i put turky not turkey]
 
 Also adding lights along a hallway that direct away from gunshots so its not mass confusion, with a side of mass murderer. 
-
+Or adding the snaking just at the front and the back of the hallways. 
 This seems stupid if your ok with the deaths I know, but its a good start towards something better. 
 
 Its can reduce the deaths but... I don't know the math in this area so... idk where to begin. 
